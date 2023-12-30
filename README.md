@@ -1,6 +1,6 @@
-# lxd-completion-zsh
+# incus-completion-zsh
 
-Zsh completion for `lxc` and `lxd` commands of [LXD](https://linuxcontainers.org/lxd/).
+Zsh completion for `incus` and `incusd` commands of [Incus](https://linuxcontainers.org/incus/).
 
 ![screenshot](http://static.endaaman.me/images/github/lxd-completion.png)
 
